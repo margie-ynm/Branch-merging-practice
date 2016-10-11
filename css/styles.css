@@ -1,3 +1,19 @@
 body {
-  background: #C4C0C1;
+  background: #F5F1A9;
+}
+
+h1 {
+  color: #6BC767;
+  text-align: center;
+
+}
+
+h2{
+  color: #315C30;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  font-family: sans-serif;
 }
